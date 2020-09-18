@@ -37,7 +37,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/common/message" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RecentsManager">
@@ -122,10 +122,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="471" y="54" width="1089" height="885" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600325927007">
+    <state x="471" y="54" width="1089" height="885" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600440997442">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state x="471" y="54" width="1089" height="885" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1739.939@0.0.1739.939" timestamp="1600325927007" />
+    <state x="471" y="54" width="1089" height="885" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1739.939@0.0.1739.939" timestamp="1600440997442" />
     <state x="632" y="272" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600257166535">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
@@ -142,10 +142,10 @@
       <screen x="0" y="0" width="1739" height="939" />
     </state>
     <state x="760" y="330" key="EnvironmentVariablesDialog/0.0.1739.939@0.0.1739.939" timestamp="1600240114866" />
-    <state x="650" y="225" key="FileChooserDialogImpl" timestamp="1600239269081">
+    <state x="650" y="225" key="FileChooserDialogImpl" timestamp="1600441115036">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
-    <state x="650" y="225" key="FileChooserDialogImpl/0.0.1739.939@0.0.1739.939" timestamp="1600239269081" />
+    <state x="650" y="225" key="FileChooserDialogImpl/0.0.1739.939@0.0.1739.939" timestamp="1600441115036" />
     <state width="1696" height="286" key="GridCell.Tab.0.bottom" timestamp="1600419937794">
       <screen x="0" y="0" width="1739" height="939" />
     </state>
